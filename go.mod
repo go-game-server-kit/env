@@ -1,4 +1,4 @@
-module github.com/go-game-server-kit/env-config-loader
+module github.com/go-game-server-kit/env
 
 go 1.23
 
