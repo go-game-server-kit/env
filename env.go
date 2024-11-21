@@ -1,4 +1,4 @@
-package env_config_loader
+package env
 
 import (
 	"fmt"
